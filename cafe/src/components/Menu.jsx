@@ -92,8 +92,8 @@ const Menu = () => {
             </div>
           ))}
         </div>
-      <div classname='toggle-div'>{toggle?<h1>show</h1>:""}</div>
-      <button onClick={()=>setToggle(!toggle)}>Click</button>
+{/*       <div classname='toggle-div'>{toggle?<h1>show</h1>:""}</div>
+      <button onClick={()=>setToggle(!toggle)}>Click</button> */}
       </div>
     </section>
   );
