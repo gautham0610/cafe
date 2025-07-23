@@ -22,7 +22,7 @@ const Footer = () => {
       <div className="container">
         <div className="footer-content">
           <div className="footer-section">
-            <h3 className="footer-title">About Gautham Cafe</h3>
+            <h3 className="footer-title">About Cozy Cup Cafe</h3>
             <p className="footer-description">
               Experience the perfect blend of artisanal coffee and delicious treats 
               in a cozy atmosphere. Your local destination for premium beverages and 
