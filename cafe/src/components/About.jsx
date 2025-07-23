@@ -32,7 +32,7 @@ const About = () => {
         <div className="about-content">
           <div className="about-text">
             <p className="about-description">
-              Welcome to Gautham Cafe, where passion meets perfection in every cup. 
+              Welcome to Cozy Cup Cafe, where passion meets perfection in every cup. 
               Established in 2024, we've been dedicated to serving the finest coffee 
               and creating memorable experiences for our community.
             </p>
