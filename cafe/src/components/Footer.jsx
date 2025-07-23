@@ -96,7 +96,7 @@ const Footer = () => {
         </div>
 
         <div className="footer-bottom">
-          <p>&copy; {currentYear} Gautham Cafe. All rights reserved.</p>
+          <p>&copy; {currentYear} Cozy Cup Cafe. All rights reserved.</p>
           <div className="footer-bottom-links">
             <a href="#privacy">Privacy Policy</a>
             <a href="#terms">Terms of Service</a>
